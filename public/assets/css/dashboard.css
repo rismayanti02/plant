@@ -1,0 +1,84 @@
+body{
+    background-image: url(https://png.pngtree.com/background/20210715/original/pngtree-green-healthy-plant-background-picture-image_1278905.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.container{
+    height: 470px !important;
+    width: 50% !important;
+    background-color: rgb(232, 232, 232);
+    margin-top: 75px;
+    padding-top: 100px;
+    border-radius: 25px 25px 25px 25px;
+    border-style: groove;
+}
+
+/* .background{
+background-color: rgb(214, 223, 214);
+padding-left: 100px;
+} */
+
+.header-text h3{
+    position: absolute;
+    color: rgb(60, 95, 64);
+    margin-top: -70px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+.btn {
+    position: absolute;
+    border-radius: 8px !important;
+    margin-left: 530px;
+    margin-top: -54px;
+    padding-left: 32px !important;
+    padding-right: 32px !important;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+.small-text{
+    position: absolute;
+    color: rgb(94, 94, 94);
+    padding-left: 22px;
+    margin-top: -33px;
+}
+
+.header-text1 h3{
+    position: absolute;
+    color: rgb(60, 95, 64);
+    margin-top: 55px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+.small-text1{
+    position: absolute;
+    color: rgb(94, 94, 94);
+    padding-left: 22px;
+    margin-top: 89px;
+}
+
+.count{
+    position: absolute;
+    margin-left: 5px;
+    margin-top: 70px;
+}
+
+.penutup{
+    padding-top: 200px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.table td{
+    border-radius: 1px;
+    color: rgb(76, 103, 91);
+}
+
+.table tr{
+    border-radius: 5px !important;
+}
